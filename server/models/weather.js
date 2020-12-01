@@ -1,6 +1,6 @@
 const request = require('request-promise');
 
-const API_KEY = '4da5a58e2ba45dee854dbe39c433e721';
+const API_KEY = '';
 
 class Weather {
     static retrieveByCity (city, callback) {
